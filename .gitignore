@@ -3,3 +3,7 @@ node_modules/
 .env.*
 uploads/
 dist/
+
+
+
+mongodb+srv://iamanishfellass_db_user:xdq4SP8AJDIsVYY8@harishchat.ivmdzrf.mongodb.net/
